@@ -1,5 +1,6 @@
 testing
 features.
+another feature.
 fsafsdfd
 version 0.2
 fixing a bug.
